@@ -40,6 +40,7 @@ logs
 *.swp
 *.swo
 *~
+*.txt
 
 # OS generated files
 .DS_Store
